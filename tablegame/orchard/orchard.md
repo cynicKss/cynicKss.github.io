@@ -5,10 +5,10 @@
 
 中文名：果园
 简介：巧妙叠放卡牌，注意回避烂果，营造精美果园。
-BGG：[](https://boardgamegeek.com/boardgame/245487/orchard-9-card-solitaire-game)
+BGG：[地址](https://boardgamegeek.com/boardgame/245487/orchard-9-card-solitaire-game)
 
 资源：
-*电子版：
-*规则+打印文件：
+-电子版：
+-规则+打印文件：
 
 tag:
